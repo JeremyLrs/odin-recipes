@@ -1,0 +1,19 @@
+/* styles.css */
+
+body, html{
+    height: 100%;
+    margin: 0;
+}
+.left-img {
+    border-radius: 10px;
+}
+
+.Description {
+    background-color: blueviolet;
+    color: azure;
+}
+
+.Etape {
+    background-color: aqua;
+    
+}
